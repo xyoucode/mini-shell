@@ -93,3 +93,7 @@ mini-shell/
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+## 👤 Author
+
+Built by ' MESLOUB YOUCEF ABD ELMOUIZ '
